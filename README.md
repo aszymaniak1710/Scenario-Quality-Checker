@@ -2,7 +2,10 @@
 Aplikacja Webowa do analizy scenariuszy biznesowych.
 Spring Web
 
-Przykład:<br />
+Funkcje:
+Liczenie kroków, podkroków kroków ze słowem kluczowym. liczenie aktorów. Upraszczanie scenariusza do danego poziomu. itp...
+
+Przykład scenariusza:<br />
 Tytuł: Dodanie książki<br />
 Aktorzy:  Bibliotekarz<br />
 Aktor systemowy: System<br />
